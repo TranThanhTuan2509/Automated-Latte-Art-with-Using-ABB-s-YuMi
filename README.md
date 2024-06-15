@@ -58,4 +58,7 @@
 ![image](https://github.com/TranThanhTuan2509/Automated-Latte-Art-with-Using-ABB-s-YuMi/assets/119112296/8e57fd42-b570-45e5-ab8e-831c2dd7bd1c)
   
 - For more information about YuMi' workspace and Position, Velocity and Acceleration Trajectory, please checking "pdf" file on top.
+- The entire report's content written in Vietnamese.
 
+# Conclusion
+- Thank you for taking the time to read.
